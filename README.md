@@ -14,3 +14,7 @@ Notes :
 * I just implement the vector anonymization part
 * I train on a much smaller dataset from Kaggle instead of VoxCeleb which is a huge dataset
 * You only need an <a href="https://www.kaggle.com">Kaggle.com</a> account and request for an API key for downloading the dataset
+
+Language and framework used :
+* Python
+* Pytorch
