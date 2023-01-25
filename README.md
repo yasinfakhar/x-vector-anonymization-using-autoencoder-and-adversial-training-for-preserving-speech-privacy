@@ -1,4 +1,4 @@
-# x-vector-anonymization-using-autoencoder-and-adversial-training-for-preserving-speach-privacy
+# x-vector-anonymization-using-autoencoder-and-adversial-training-for-preserving-speech-privacy
 this repository contains pytorch implementation of article "X-vector anonymization using autoencoders and adversarial training for preserving speech privacy"
 
 jornal = Computer Speech & Language (CSL)
